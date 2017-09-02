@@ -1,0 +1,2 @@
+# Safe-online-banking-via-facial-authentication-in-Android
+This project was based on a Facial authentication system which was focused to protect the online banking customers from the cyber frauds and the product was programmed as a mobile application in AndroidThis project was based on a Facial authentication system which was focused to protect the online banking customers from the cyber frauds and the product was programmed as a mobile application in Android
